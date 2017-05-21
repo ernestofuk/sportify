@@ -1,0 +1,6 @@
+package sportify.beans;
+
+@Entity
+public class Evento {
+
+}

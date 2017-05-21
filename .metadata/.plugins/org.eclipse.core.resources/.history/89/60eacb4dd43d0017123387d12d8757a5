@@ -1,0 +1,8 @@
+package sportify.beans;
+
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
+@Entity
+public class Evento {
+
+}
