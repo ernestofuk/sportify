@@ -1,7 +1,0 @@
-INDEX VERSION 1.3+/home/ernesto/workspace/sportProject/sportify/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3059995513.index
-2534841976.index
-4001574446.index
-3303426741.index
-1129367292.index
-2892383550.index
